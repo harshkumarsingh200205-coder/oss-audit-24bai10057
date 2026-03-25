@@ -1,0 +1,13 @@
+Git was created in 2005 by Linus Torvalds.
+
+It was created because Linux kernel development needed a better version control system.
+Earlier BitKeeper was used, which was proprietary.
+
+That created a dependency issue.
+After that, Git was developed.
+
+Main features:
+- fast
+- distributed
+- reliable
+- supports large scale collaboration

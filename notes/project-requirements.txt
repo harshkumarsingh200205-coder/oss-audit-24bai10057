@@ -1,0 +1,9 @@
+Project software: Git
+Need public GitHub repo
+Need README
+Need 5 shell scripts
+Need final report PDF
+Report length: 12 to 16 pages
+Must be in own words
+Need Linux-based work and screenshots
+Need proper commit history
