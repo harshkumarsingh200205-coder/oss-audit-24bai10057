@@ -1,0 +1,3 @@
+Git works with GitHub, GitLab
+Uses SSH, curl, OpenSSL
+Base of modern DevOps workflows

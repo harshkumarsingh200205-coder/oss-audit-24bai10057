@@ -1,0 +1,11 @@
+Git is installed using apt package manager.
+
+The binary is located in /usr/bin/git.
+Git does not run as a background service.
+
+Configuration files:
+- ~/.gitconfig (user level)
+- /etc/gitconfig (system level)
+
+Git updates are handled through apt repositories.
+It runs under the current user and does not require a dedicated system user.

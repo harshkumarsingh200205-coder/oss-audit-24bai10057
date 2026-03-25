@@ -1,0 +1,3 @@
+Git uses GPL v2 license
+Allows modification and redistribution
+Requires source code disclosure if modified

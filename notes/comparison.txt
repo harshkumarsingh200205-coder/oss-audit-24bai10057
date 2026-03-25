@@ -1,0 +1,3 @@
+Git vs Perforce
+Git free and open source
+Perforce paid and proprietary

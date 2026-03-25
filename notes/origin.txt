@@ -1,0 +1,4 @@
+Created by Linus Torvalds in 2005
+Problem with BitKeeper licensing
+Needed distributed version control
+Fast, scalable, open source
