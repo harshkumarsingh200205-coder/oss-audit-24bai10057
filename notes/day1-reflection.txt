@@ -1,5 +1,0 @@
-Today I created the project repository and connected it to GitHub.
-I installed and verified Git. 
-I also created the project structure and started writing notes.
-I now understand the project requirements and workflow.
-

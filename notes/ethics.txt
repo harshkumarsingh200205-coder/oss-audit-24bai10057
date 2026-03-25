@@ -1,8 +1,0 @@
-Open source promotes transparency and collaboration.
-
-Git allows open contribution from developers.
-It avoids vendor lock-in.
-
-Users have control over their code.
-
-Open source builds trust because code is visible.
