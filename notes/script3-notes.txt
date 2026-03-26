@@ -1,0 +1,3 @@
+Script 3 analyzes disk usage and file permissions. It uses a for 
+loop to iterate through files and directories and displays 
+permissions using ls -ld. It also checks the Git configuration file.

@@ -1,0 +1,2 @@
+Script 5 generates a personalized open source manifesto. It takes 
+user input and writes the output to a text file using redirection.
