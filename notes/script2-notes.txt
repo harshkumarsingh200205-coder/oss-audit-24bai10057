@@ -1,0 +1,6 @@
+Script 2 is a FOSS package inspector. It checks whether Git is 
+installed on the syatem using dpkg and grep. If installed, it prints 
+package details and the Git version. It also uses a case statement 
+to print a short one-line description of the package purpose. The 
+script uses if-then-else, pipes, grep, and case.
+

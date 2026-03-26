@@ -1,0 +1,5 @@
+Script 1 is a system identity report. It displays the Linux 
+distribution name, kernel version, current user, home directory, 
+uptime, and current date/time. It also prints a short note about the 
+operating system being open source. The script uses variables, echo 
+statements, command substitution, and output formatting.
