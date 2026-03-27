@@ -1,7 +1,0 @@
-======================================
- Open Source Manifesto
-======================================
-Name: Harsh Kumar Singh
-Reason: Open source matters to me because it makes learning and building things accessible to everyone, not just a few people. It allows developers to see real-world code, improve it, and collaborate with others across the world.
-Favorite Tool: Git
-Generated on: Thu Mar 26 08:04:17 IST 2026
