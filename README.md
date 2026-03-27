@@ -22,6 +22,7 @@ The project also includes five Linux shell scripts demonstrating system interact
 
 ## Repository Structure
 
+```text
 oss-audit-24bai10057/
 ├── README.md
 ├── scripts/
@@ -34,7 +35,7 @@ oss-audit-24bai10057/
 ├── report/
 │   └── Open_Source_Audit_Report.pdf
 └── notes/
-
+```
 ---
 
 ## Shell Script Tasks
